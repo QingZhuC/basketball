@@ -1,0 +1,3 @@
+﻿  源.c
+E:\Visual Studio 2022\1project\TEST\源.c(10,38): warning C4305: “+=”: 从“double”到“float”截断
+  TEST.vcxproj -> E:\Visual Studio 2022\1project\TEST\x64\Debug\TEST.exe
